@@ -5,7 +5,7 @@ of individual inputs and their interactions. In this case, the generalized PCE i
 quadratures (smolyak). This process follows the work done in [1].
 
 [1] T. Crestaux, O. Maitre, J-M Martinez, "Polynomial Chaoes expansion for sensitivity analysis," 
-    Reliability Engineering and System Safety, 2008
+    Reliability Engineering and System Safety, 2008 https://www.sciencedirect.com/science/article/pii/S0951832008002561
     
 # Testing the function
 
